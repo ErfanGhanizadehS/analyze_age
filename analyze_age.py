@@ -8,5 +8,5 @@ if 10<age<=20:
     print("teen")
 if 20<age<=30:
     print("young")
-else:
+if age>30:
     print("old")
